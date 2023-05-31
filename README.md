@@ -14,9 +14,7 @@
 
 | Name | links |
 | ------ | ------ |
-| Rock-Scissors-paper | [Rock-Scissors-Paper][PlDb] |
 | Text Analysis | [Text Analysis][PlGh] |
 
-   [PlDb]: <https://github.com/bbbbooo/Rock-Scissors-Paper>
    [PlGh]: <https://github.com/bbbbooo/youtube-crol>
 
