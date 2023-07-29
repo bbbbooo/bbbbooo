@@ -1,8 +1,4 @@
 # 😁LeeHyeonSeok
- ```java
-System.out.println("안녕하세요! 개발자 이현석입니다.");
-System.out.println("백엔드 개발자로서 성장하고 있습니다.");
- ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbbooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
