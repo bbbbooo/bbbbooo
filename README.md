@@ -8,12 +8,3 @@
 
 <hr/>
 
-## 👨‍💻Team Projects
-
-
-| Name | links |
-| ------ | ------ |
-| Text Analysis | [Text Analysis][PlGh] |
-
-   [PlGh]: <https://github.com/bbbbooo/youtube-crol>
-
