@@ -24,12 +24,9 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-</div>
   
 <br />
 
-<div align = "left">
-  
 ## 💻 Blog
 <div style="display:flex; flex-direction:row;">
     <a href="https://https://velog.io/@bbbbooo/posts">
