@@ -16,22 +16,20 @@
 
 </a>
 
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
--->
 
 <br />
-
-<!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dkssud8150&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bbbbooo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bbbbooo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
   
 <br />
 
+<div align = "left">
+  
 ## 💻 Blog
 <div style="display:flex; flex-direction:row;">
     <a href="https://https://velog.io/@bbbbooo/posts">
@@ -70,4 +68,4 @@
 | [영어 문제 추천 서비스](https://github.com/Convergence-Project)   | 생성형 AI를 활용한 문제 풀이 서비스입니다.  | Java, Spring Boot, Spring Security, MySQL, JPA, Thymeleaf |
 | [애니메이터 보조 플러그인](https://github.com/MTVS-Post-Production)   | 프리비즈 애니메이션 제작을 보조하기 위한 플러그인입니다.   | Java, Spring Boot, Spring Security, MySQL, JPA, Thymeleaf, WebClient, Google Cloud Storage, AWS EC2 |
 
-
+</div>
