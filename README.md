@@ -27,11 +27,10 @@
   
 <br />
 
-## 💻 Blog
+## 📋 Recent Blog Posts
 <div style="display:flex; flex-direction:row;">
-    <a href="https://https://velog.io/@bbbbooo/posts">
-        <img src="https://img.shields.io/badge/velog-000000?style=for-the-badge&logo=velog&logoColor=white"> 
-    </a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </div><br>
 
  
