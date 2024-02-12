@@ -27,12 +27,6 @@
   
 <br />
 
-## 📋 Recent Blog Posts
-<div style="display:flex; flex-direction:row;">
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-</div><br>
-
  
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
@@ -63,5 +57,9 @@
 | [과자 리뷰 플랫폼](https://github.com/goalapa)   | 전세계 과자에 대한 리뷰를 작성할 수 있는 커뮤니티입니다.    | Java, Spring Boot, Spring Security, MySQL, Mybatis, JPA, Thymeleaf |
 | [영어 문제 추천 서비스](https://github.com/Convergence-Project)   | 생성형 AI를 활용한 문제 풀이 서비스입니다.  | Java, Spring Boot, Spring Security, MySQL, JPA, Thymeleaf |
 | [애니메이터 보조 플러그인](https://github.com/MTVS-Post-Production)   | 프리비즈 애니메이션 제작을 보조하기 위한 플러그인입니다.   | Java, Spring Boot, Spring Security, MySQL, JPA, Thymeleaf, WebClient, Google Cloud Storage, AWS EC2 |
+
+## 📋 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </div>
