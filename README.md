@@ -60,11 +60,11 @@
 
 ## 📋 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Java] Collection](https://velog.io/@bbbbooo/Java-Collection)
 - [알람 아키텍처 리팩토링 - 1 - &lpar;feat. 프리온보딩&rpar;](https://velog.io/@bbbbooo/%EC%95%8C%EB%9E%8C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%ED%98%84-1-feat.-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9)
 - [[Spring] Spring에 대한 이야기 -3-](https://velog.io/@bbbbooo/Spring-Spring%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-3-)
 - [[Java] 동시성 제어 - 2 -](https://velog.io/@bbbbooo/Java-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4-2-)
 - [[Java] 동시성 제어 - 1 -](https://velog.io/@bbbbooo/Java-%EC%A2%8B%EC%95%84%EC%9A%94%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B3%B4%EB%8A%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4)
-- [[DB] 데이터베이스](https://velog.io/@bbbbooo/DB-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
