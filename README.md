@@ -60,11 +60,11 @@
 
 ## 📋 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[JPA] findById&lpar;&rpar;, getReferenceById&lpar;&rpar;의 차이로 알아보는 get, find 네이밍 의미와 로딩전략](https://velog.io/@bbbbooo/JPA-findById-getReferenceById%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [[Java] Garbage Collection](https://velog.io/@bbbbooo/Java-Garbage-Collection)
 - [인성면접 복기](https://velog.io/@bbbbooo/%EC%9D%B8%EC%84%B1%EB%A9%B4%EC%A0%91-%EB%B3%B5%EA%B8%B0)
 - [기술면접 복기](https://velog.io/@bbbbooo/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EB%B3%B5%EA%B8%B0)
 - [[Java] Collection](https://velog.io/@bbbbooo/Java-Collection)
-- [알람 아키텍처 리팩토링 - 1 - &lpar;feat. 프리온보딩&rpar;](https://velog.io/@bbbbooo/%EC%95%8C%EB%9E%8C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%ED%98%84-1-feat.-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
