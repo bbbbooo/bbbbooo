@@ -64,7 +64,7 @@
 - [[DB] Mysql은 어떻게 Phantom Read를 예방할까?](https://velog.io/@bbbbooo/DB-Mysql%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-Phantom-Read%EB%A5%BC-%EC%98%88%EB%B0%A9%ED%95%A0%EA%B9%8C)
 - [[JPA] findById&lpar;&rpar;, getReferenceById&lpar;&rpar;의 차이로 알아보는 get, find 네이밍 의미와 로딩전략](https://velog.io/@bbbbooo/JPA-findById-getReferenceById%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [[Java] Garbage Collection](https://velog.io/@bbbbooo/Java-Garbage-Collection)
-- [인성면접 복기](https://velog.io/@bbbbooo/%EC%9D%B8%EC%84%B1%EB%A9%B4%EC%A0%91-%EB%B3%B5%EA%B8%B0)
+- [[Java] Collection](https://velog.io/@bbbbooo/Java-Collection)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
