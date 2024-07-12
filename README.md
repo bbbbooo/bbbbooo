@@ -30,11 +30,11 @@
 
 ## 📋 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [일정 관리의 중요성](https://velog.io/@bbbbooo/%EC%9D%BC%EC%A0%95-%EA%B4%80%EB%A6%AC%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1)
 - [[DB] 공유락&lpar;Shared Lock&rpar;과 배타락&lpar;Exclusive Lock&rpar;](https://velog.io/@bbbbooo/DB-%EA%B3%B5%EC%9C%A0%EB%9D%BDShared-Lock%EA%B3%BC-%EB%B0%B0%ED%83%80%EB%9D%BDExclusive-Lock)
 - [[DB] Mysql은 어떻게 Phantom Read를 예방할까?](https://velog.io/@bbbbooo/DB-Mysql%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-Phantom-Read%EB%A5%BC-%EC%98%88%EB%B0%A9%ED%95%A0%EA%B9%8C)
 - [[JPA] findById&lpar;&rpar;, getReferenceById&lpar;&rpar;의 차이로 알아보는 get, find 네이밍 의미와 로딩전략](https://velog.io/@bbbbooo/JPA-findById-getReferenceById%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [[Java] Garbage Collection](https://velog.io/@bbbbooo/Java-Garbage-Collection)
-- [[Java] Collection](https://velog.io/@bbbbooo/Java-Collection)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
