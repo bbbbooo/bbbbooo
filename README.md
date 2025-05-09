@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbbbooo&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/bbbbooo)
-
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bbbbooo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -18,15 +16,6 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-
-## 📝 My Projects
-| Project Name | Description |   Technology Stack |
-| :---         |     :---:      |          ---: |
-| [온라인 도서 쇼핑몰](https://github.com/nhnacademy-be6-yes-25-5)   | 온라인 도서 쇼핑몰 서비스입니다.    | Java, Spring Boot, Spring Security, Spring Cloud Eureka, RabbitMQ, MySQL, JPA, Thymeleaf |
-| [애니메이터 보조 플러그인](https://github.com/MTVS-Post-Production)   | 프리비즈 애니메이션 제작을 보조하기 위한 플러그인입니다.   | Java, Spring Boot, Spring Security, MySQL, JPA, Thymeleaf, WebClient, Google Cloud Storage, AWS EC2 |
-| [영어 문제 추천 서비스](https://github.com/Convergence-Project)   | 생성형 AI를 활용한 문제 풀이 서비스입니다.  | Java, Spring Boot, Spring Security, MySQL, JPA, Thymeleaf |
-| [과자 리뷰 플랫폼](https://github.com/goalapa)   | 전세계 과자에 대한 리뷰를 작성할 수 있는 커뮤니티입니다.    | Java, Spring Boot, Spring Security, MySQL, Mybatis, JPA, Thymeleaf |
-
 
 <br/>
 
