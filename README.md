@@ -9,7 +9,7 @@
   
 <br />
 
-## 🏆 Open Source Contributions
+## Open Source Contributions
 
 ### Spring Boot
 
