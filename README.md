@@ -11,9 +11,13 @@
 
 ## 🏆 Open Source Contributions
 
-| Project | Contribution | Description | PR | Issue |
-|--------|-------------|------------|----|-------|
-| Spring Boot | PR | Fixed EndpointRequest.toLinks() issue when base-path is '/' | [#49591](https://github.com/spring-projects/spring-boot/pull/49591) | [#34834](https://github.com/spring-projects/spring-boot/issues/34834) |
+### Spring Boot
+
+- Fixed `EndpointRequest.toLinks()` mismatch when `management.endpoints.web.base-path` is `'/'`
+- Covered both **Servlet** and **Reactive** stacks, with test cases added
+
+🔗 PR: https://github.com/spring-projects/spring-boot/pull/49591  
+🔗 Issue: https://github.com/spring-projects/spring-boot/issues/34834
 
  
 ## 📞 Contact
