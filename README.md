@@ -9,15 +9,11 @@
   
 <br />
 
-## Open Source Contributions
+## ✨ Open Source Contributions
 
-### Spring Boot
-
-- Fixed `EndpointRequest.toLinks()` mismatch when `management.endpoints.web.base-path` is `'/'`
-- Covered both **Servlet** and **Reactive** stacks, with test cases added
-
-🔗 PR: https://github.com/spring-projects/spring-boot/pull/49591  
-🔗 Issue: https://github.com/spring-projects/spring-boot/issues/34834
+| Project      | Contribution | Description | PR | Issue |
+|-------------|-------------|-------------|----|-------|
+| Spring Boot | PR | Fixed `EndpointRequest.toLinks()` mismatch<br/>- base-path `'/'` 대응<br/>- Servlet & Reactive 모두 지원<br/>- 테스트 추가 | [#49591](https://github.com/spring-projects/spring-boot/pull/49591) | [#34834](https://github.com/spring-projects/spring-boot/issues/34834) |
 
  
 ## 📞 Contact
