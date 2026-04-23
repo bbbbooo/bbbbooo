@@ -11,9 +11,10 @@
 
 ## ✨ Open Source Contributions
 
-| Project      | Contribution | Description | PR | Issue |
-|-------------|-------------|-------------|----|-------|
+| Project | Contribution | Description | PR | Issue |
+|---------|-------------|-------------|----|-------|
 | Spring Boot | PR | Fixed `EndpointRequest.toLinks()` mismatch<br/>- base-path `'/'` 대응<br/>- Servlet & Reactive 모두 지원<br/>- 테스트 추가 | [#49591](https://github.com/spring-projects/spring-boot/pull/49591) | [#34834](https://github.com/spring-projects/spring-boot/issues/34834) |
+| Spring Boot | PR | Enhanced `SslMeterBinder` truststore monitoring<br/>- truststore 인증서 체인 만료 메트릭 추가<br/>- `store` 태그(`key`/`trust`)로 출처 구분 가능<br/>- 레퍼런스 문서 업데이트<br/>- 테스트 추가 | [#49641](https://github.com/spring-projects/spring-boot/pull/49641) | [#49325](https://github.com/spring-projects/spring-boot/issues/49325) |
 
  
 ## 📞 Contact
