@@ -11,10 +11,10 @@
 
 ## ✨ Open Source Contributions
 
-| Project | Contribution | Description | PR | Issue |
-|---------|-------------|-------------|----|-------|
-| Spring Boot | PR | Fixed `EndpointRequest.toLinks()` mismatch<br/>- base-path `'/'` 대응<br/>- Servlet & Reactive 모두 지원<br/>- 테스트 추가 | [#49591](https://github.com/spring-projects/spring-boot/pull/49591) | [#34834](https://github.com/spring-projects/spring-boot/issues/34834) |
-| Spring Boot | PR | Enhanced `SslMeterBinder` truststore monitoring<br/>- truststore 인증서 체인 만료 메트릭 추가<br/>- `store` 태그(`key`/`trust`)로 출처 구분 가능<br/>- 레퍼런스 문서 업데이트<br/>- 테스트 추가 | [#49641](https://github.com/spring-projects/spring-boot/pull/49641) | [#49325](https://github.com/spring-projects/spring-boot/issues/49325) |
+| 프로젝트 | 유형 | 기여 내용 | 설명 | PR | Issue | 릴리즈 / 마일스톤 |
+|---------|------|-----------|------|----|-------|------------------|
+| Spring Boot | Bug Fix | `EndpointRequest.toLinks()` 매칭 문제 수정 | - `management.endpoints.web.base-path=/` 설정 시 links endpoint가 매칭되지 않던 문제 수정<br/>- management 서버가 별도 포트에서 동작하는 경우 대응<br/>- Servlet / Reactive 양쪽 스택에 동일하게 적용<br/>- `toLinks()`, `toAnyEndpoint()` 회귀 테스트 추가 | [#49591](https://github.com/spring-projects/spring-boot/pull/49591) | [#34834](https://github.com/spring-projects/spring-boot/issues/34834) | `3.5.12` |
+| Spring Boot | Enhancement | `SslMeterBinder`에 truststore 인증서 만료 메트릭 추가 | - `ssl.chain.expiry` 메트릭이 truststore 인증서 체인도 수집하도록 개선<br/>- `source` 태그를 추가해 `keystore` / `truststore` 구분 가능하도록 변경<br/>- reference documentation 업데이트<br/>- truststore-only bundle, 동일 alias, bundle 업데이트 케이스 테스트 추가 | [#49641](https://github.com/spring-projects/spring-boot/pull/49641) | [#49325](https://github.com/spring-projects/spring-boot/issues/49325) | `4.1.0-RC1` |
 
  
 ## 📞 Contact
